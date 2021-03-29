@@ -1,0 +1,3 @@
+[submodule "mahjong4j"]
+	path = mahjong4j
+	url = https://github.com/hundundejiejie/mahjong4j.git
